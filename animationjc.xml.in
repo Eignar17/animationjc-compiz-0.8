@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <compiz>
+  <!-- animationjc metadata -->
   <plugin name="animationjc" useBcop="true">
     <_short>Animations Experimental</_short>
     <_long>Extra window animations</_long>
